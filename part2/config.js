@@ -3,7 +3,7 @@ exports.config =
 	seleniumAddress: 'http://127.0.0.1:4444/wd/hub',
 	specs:
 	[
-		'part1.js'
+		'part2.js'
 	],
 	capabilities:
 	{
